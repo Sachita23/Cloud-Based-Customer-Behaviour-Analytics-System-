@@ -100,19 +100,21 @@ Used RFM to:
 - Interactive filtering and drill-down analysis
 
 ---
-
 ## 📂 Project Structure
-  ├── Documentations and Presentations
-  │ ├── Project PPT
-  │ ├── Abstract
-  │ ├── Documentation
-  │
-  ├── Implementation
-  │ ├── Azure (Screenshots)
-  │ ├── Google Colab (Notebook)
-  │ ├── PowerBI (Screenshots)
-  │
-  └── README.md
+
+```
+├── Documentations and Presentations
+│   ├── Project PPT
+│   ├── Abstract
+│   ├── Documentation
+│
+├── Implementation
+│   ├── Azure (Screenshots)
+│   ├── Google Colab (Notebook)
+│   ├── PowerBI (Screenshots)
+│
+└── README.md
+```
 
 
 ---
